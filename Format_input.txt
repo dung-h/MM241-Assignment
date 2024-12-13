@@ -1,0 +1,70 @@
+_______________________________________________________________________________________________________. 
+***Input parameters file for the Multiple Stock Size Cutting Stock Problem (MSSCSP)***
+_______________________________________________________________________________________________________. 
+Number of Dimensions which defines the problem: 
+2
+ID of the rectangular cutting and packing problem: 
+11
+_______________________________________________________________________________________________________. 
+Enter an integer seed (smaller than 2,147,483,647): 
+666205145
+Please insert the number of instances to generate: 
+10
+Please insert integer values for the minimum and maximum size dimension of the large object (separated by a space): 
+100 200
+Please insert integer values for the minimum and maximum size dimension of the items (separated by a space):
+10 80
+___________________________________________________________________________.
+ ID Characteristics of the size and shape for items and large objects.           
+___________________________________________________________________________. 
+ 1	Small and square;
+ 2	Long and narrow;
+ 3	Average length and narrow;
+ 4	Small and square or long and narrow;
+ 5	Short and tall;
+ 6	Big and square;
+ 7	Average length and tall;
+ 8	Short and tall or long and tall;
+ 9	Short and average width;
+ 10	Long and average width;
+ 11	Average size and square;
+ 12	Short and average width or long and average width;
+ 13	Short and narrow or short and tall;
+ 14	Long and narrow or long and tall;
+ 15	Average length and narrow or average length and tall;
+ 16	Small and square, short and tall, long and narrow or big and square;
+___________________________________________________________________________.
+Please select the ID of the size and shape of the items: 
+11
+
+Please select the ID of the size and shape of the large objects: 
+6
+Please insert the minimum and maximum number of different large objects (separated by a space): 
+10 15
+Please insert the minimum and maximum number for the available large objects (separated by a space):
+50 60
+Please give a range between 0.5 and 1 to the value of the large objects (if the value  of the large object is equal to its area insert 1 1), separated by a space:
+0.5 1
+Please insert the minimum and maximum number of different item types (separated by a space): 
+10 20
+Please insert the minimum and maximum number for the item type demand (separated by a space): 
+3 15
+_________________________________________________________.
+ ID Characteristics.             
+_________________________________________________________.
+ 1	Beta distribution with alpha=1 and beta=3;
+ 2	Beta distribution with alpha=2 and beta=5;
+ 3	Beta distribution with alpha=2 and beta=2;
+ 4	Beta distribution with alpha=0.5 and beta=0.5;
+ 5	Beta distribution with alpha=1 and beta=1;
+ 6	Beta distribution with alpha=3 and beta=1;
+ 7	Beta distribution with alpha=5 and beta=2;
+_________________________________________________________.
+Please select the ID of the characteristic for the number of different large object types: 
+2
+Please select the ID of the characteristic for the number of large objects available of each type: 
+2
+Please select the ID of the characteristic for the number of different item types: 
+2
+Please select the ID of the characteristic for the item type demand:
+2
