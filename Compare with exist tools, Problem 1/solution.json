@@ -1,0 +1,622 @@
+{
+  "solution": {
+    "205": [
+      {
+        "product_id": 1,
+        "x": 0.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 1,
+        "x": 0.0,
+        "y": 63.0,
+        "rotated": false,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 1,
+        "x": 0.0,
+        "y": 126.0,
+        "rotated": false,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 1,
+        "x": 74.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 1,
+        "x": 74.0,
+        "y": 63.0,
+        "rotated": false,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 1,
+        "x": 74.0,
+        "y": 126.0,
+        "rotated": false,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 1,
+        "x": 148.0,
+        "y": 0.0,
+        "rotated": true,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 1,
+        "x": 148.0,
+        "y": 74.0,
+        "rotated": true,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 9,
+        "x": 148.0,
+        "y": 148.0,
+        "rotated": false,
+        "product_length": 58.0,
+        "product_width": 64.0
+      }
+    ],
+    "206": [
+      {
+        "product_id": 1,
+        "x": 0.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 74.0,
+        "product_width": 63.0
+      },
+      {
+        "product_id": 6,
+        "x": 0.0,
+        "y": 63.0,
+        "rotated": false,
+        "product_length": 59.0,
+        "product_width": 81.0
+      },
+      {
+        "product_id": 6,
+        "x": 59.0,
+        "y": 63.0,
+        "rotated": false,
+        "product_length": 59.0,
+        "product_width": 81.0
+      },
+      {
+        "product_id": 6,
+        "x": 118.0,
+        "y": 63.0,
+        "rotated": false,
+        "product_length": 59.0,
+        "product_width": 81.0
+      },
+      {
+        "product_id": 6,
+        "x": 0.0,
+        "y": 144.0,
+        "rotated": true,
+        "product_length": 59.0,
+        "product_width": 81.0
+      },
+      {
+        "product_id": 6,
+        "x": 74.0,
+        "y": 0.0,
+        "rotated": true,
+        "product_length": 59.0,
+        "product_width": 81.0
+      },
+      {
+        "product_id": 6,
+        "x": 81.0,
+        "y": 144.0,
+        "rotated": true,
+        "product_length": 59.0,
+        "product_width": 81.0
+      },
+      {
+        "product_id": 0,
+        "x": 177.0,
+        "y": 59.0,
+        "rotated": true,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 177.0,
+        "y": 131.0,
+        "rotated": true,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 2,
+        "x": 155.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 29.0,
+        "product_width": 52.0
+      }
+    ],
+    "207": [
+      {
+        "product_id": 6,
+        "x": 0.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 59.0,
+        "product_width": 81.0
+      },
+      {
+        "product_id": 0,
+        "x": 0.0,
+        "y": 81.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 0.0,
+        "y": 116.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 0.0,
+        "y": 151.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 59.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 59.0,
+        "y": 35.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 72.0,
+        "y": 116.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 72.0,
+        "y": 151.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 131.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 0,
+        "x": 131.0,
+        "y": 35.0,
+        "rotated": false,
+        "product_length": 72.0,
+        "product_width": 35.0
+      },
+      {
+        "product_id": 9,
+        "x": 144.0,
+        "y": 134.0,
+        "rotated": false,
+        "product_length": 58.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 9,
+        "x": 144.0,
+        "y": 70.0,
+        "rotated": false,
+        "product_length": 58.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 3,
+        "x": 72.0,
+        "y": 72.0,
+        "rotated": false,
+        "product_length": 70.0,
+        "product_width": 37.0
+      }
+    ],
+    "208": [
+      {
+        "product_id": 9,
+        "x": 0.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 58.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 9,
+        "x": 0.0,
+        "y": 64.0,
+        "rotated": false,
+        "product_length": 58.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 9,
+        "x": 0.0,
+        "y": 128.0,
+        "rotated": false,
+        "product_length": 58.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 4,
+        "x": 58.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 62.0,
+        "product_width": 49.0
+      },
+      {
+        "product_id": 4,
+        "x": 58.0,
+        "y": 49.0,
+        "rotated": false,
+        "product_length": 62.0,
+        "product_width": 49.0
+      },
+      {
+        "product_id": 4,
+        "x": 58.0,
+        "y": 98.0,
+        "rotated": false,
+        "product_length": 62.0,
+        "product_width": 49.0
+      },
+      {
+        "product_id": 4,
+        "x": 58.0,
+        "y": 147.0,
+        "rotated": false,
+        "product_length": 62.0,
+        "product_width": 49.0
+      },
+      {
+        "product_id": 4,
+        "x": 120.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 62.0,
+        "product_width": 49.0
+      },
+      {
+        "product_id": 4,
+        "x": 120.0,
+        "y": 49.0,
+        "rotated": false,
+        "product_length": 62.0,
+        "product_width": 49.0
+      },
+      {
+        "product_id": 4,
+        "x": 120.0,
+        "y": 98.0,
+        "rotated": false,
+        "product_length": 62.0,
+        "product_width": 49.0
+      },
+      {
+        "product_id": 8,
+        "x": 120.0,
+        "y": 147.0,
+        "rotated": false,
+        "product_length": 61.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 2,
+        "x": 182.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 29.0,
+        "product_width": 52.0
+      },
+      {
+        "product_id": 2,
+        "x": 182.0,
+        "y": 52.0,
+        "rotated": false,
+        "product_length": 29.0,
+        "product_width": 52.0
+      },
+      {
+        "product_id": 2,
+        "x": 182.0,
+        "y": 104.0,
+        "rotated": false,
+        "product_length": 29.0,
+        "product_width": 52.0
+      },
+      {
+        "product_id": 2,
+        "x": 182.0,
+        "y": 156.0,
+        "rotated": false,
+        "product_length": 29.0,
+        "product_width": 52.0
+      }
+    ],
+    "209": [
+      {
+        "product_id": 8,
+        "x": 0.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 61.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 8,
+        "x": 0.0,
+        "y": 64.0,
+        "rotated": false,
+        "product_length": 61.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 8,
+        "x": 0.0,
+        "y": 128.0,
+        "rotated": false,
+        "product_length": 61.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 8,
+        "x": 61.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 61.0,
+        "product_width": 64.0
+      },
+      {
+        "product_id": 3,
+        "x": 61.0,
+        "y": 64.0,
+        "rotated": false,
+        "product_length": 70.0,
+        "product_width": 37.0
+      },
+      {
+        "product_id": 3,
+        "x": 61.0,
+        "y": 101.0,
+        "rotated": false,
+        "product_length": 70.0,
+        "product_width": 37.0
+      },
+      {
+        "product_id": 3,
+        "x": 61.0,
+        "y": 138.0,
+        "rotated": false,
+        "product_length": 70.0,
+        "product_width": 37.0
+      },
+      {
+        "product_id": 3,
+        "x": 61.0,
+        "y": 175.0,
+        "rotated": false,
+        "product_length": 70.0,
+        "product_width": 37.0
+      },
+      {
+        "product_id": 3,
+        "x": 122.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 70.0,
+        "product_width": 37.0
+      },
+      {
+        "product_id": 3,
+        "x": 131.0,
+        "y": 101.0,
+        "rotated": false,
+        "product_length": 70.0,
+        "product_width": 37.0
+      },
+      {
+        "product_id": 7,
+        "x": 131.0,
+        "y": 138.0,
+        "rotated": false,
+        "product_length": 50.0,
+        "product_width": 66.0
+      },
+      {
+        "product_id": 7,
+        "x": 131.0,
+        "y": 37.0,
+        "rotated": true,
+        "product_length": 50.0,
+        "product_width": 66.0
+      },
+      {
+        "product_id": 2,
+        "x": 183.0,
+        "y": 139.0,
+        "rotated": false,
+        "product_length": 29.0,
+        "product_width": 52.0
+      }
+    ],
+    "210": [
+      {
+        "product_id": 7,
+        "x": 0.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 50.0,
+        "product_width": 66.0
+      },
+      {
+        "product_id": 7,
+        "x": 0.0,
+        "y": 66.0,
+        "rotated": false,
+        "product_length": 50.0,
+        "product_width": 66.0
+      },
+      {
+        "product_id": 7,
+        "x": 0.0,
+        "y": 132.0,
+        "rotated": false,
+        "product_length": 50.0,
+        "product_width": 66.0
+      },
+      {
+        "product_id": 5,
+        "x": 50.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 43.0,
+        "product_width": 69.0
+      },
+      {
+        "product_id": 5,
+        "x": 50.0,
+        "y": 69.0,
+        "rotated": false,
+        "product_length": 43.0,
+        "product_width": 69.0
+      },
+      {
+        "product_id": 5,
+        "x": 50.0,
+        "y": 138.0,
+        "rotated": false,
+        "product_length": 43.0,
+        "product_width": 69.0
+      },
+      {
+        "product_id": 5,
+        "x": 93.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 43.0,
+        "product_width": 69.0
+      },
+      {
+        "product_id": 2,
+        "x": 93.0,
+        "y": 69.0,
+        "rotated": false,
+        "product_length": 29.0,
+        "product_width": 52.0
+      },
+      {
+        "product_id": 10,
+        "x": 93.0,
+        "y": 121.0,
+        "rotated": false,
+        "product_length": 34.0,
+        "product_width": 32.0
+      },
+      {
+        "product_id": 10,
+        "x": 93.0,
+        "y": 153.0,
+        "rotated": false,
+        "product_length": 34.0,
+        "product_width": 32.0
+      },
+      {
+        "product_id": 10,
+        "x": 122.0,
+        "y": 69.0,
+        "rotated": false,
+        "product_length": 34.0,
+        "product_width": 32.0
+      },
+      {
+        "product_id": 10,
+        "x": 127.0,
+        "y": 153.0,
+        "rotated": false,
+        "product_length": 34.0,
+        "product_width": 32.0
+      },
+      {
+        "product_id": 10,
+        "x": 136.0,
+        "y": 0.0,
+        "rotated": false,
+        "product_length": 34.0,
+        "product_width": 32.0
+      },
+      {
+        "product_id": 10,
+        "x": 136.0,
+        "y": 32.0,
+        "rotated": false,
+        "product_length": 34.0,
+        "product_width": 32.0
+      }
+    ]
+  },
+  "statistics": {
+    "execution_time": 243.49844479560852,
+    "generations": 60,
+    "islands": 8,
+    "best_fitness": 846927.0673184593,
+    "total_area_used": 229771.0,
+    "average_utilization": 84.41008346558515,
+    "overall_fulfillment_ratio": 1.0
+  },
+  "metadata": {
+    "timestamp": "2024-12-14T00:09:23.602776",
+    "total_stocks": 6,
+    "total_placements": 74
+  }
+}
