@@ -56,6 +56,7 @@ python gui.py
 4. Export Results:
    - Use "Export Results" to save optimization outcomes
 
+# Note: Sample of stock.csv and demand.csv are given.
 ### 3. Performance Evaluation
 ```bash
 python metric.py
