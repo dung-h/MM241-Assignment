@@ -1,4 +1,4 @@
-# Cutting Stock Problem Optimization
+### Cutting Stock Problem Optimization
 
 ## Project Overview
 This project provides a comprehensive solution for the Cutting Stock Problem using a Parallel Genetic Algorithm approach. The application includes a graphical user interface for easy interaction, parallel genetic algorithm implementation, and performance evaluation tools.
